@@ -1,2 +1,2 @@
 # tic-tac-toe
-A sample application using marko-js service oriented architecture (SAV).
+A sample application using marko-js State, Application, View architecture (SAV).
